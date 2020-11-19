@@ -10,6 +10,7 @@ require (
 	github.com/antlr/antlr4 v0.0.0-20201029161626-9a95f0cc3d7c // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
+	github.com/google/uuid v1.1.2
 	github.com/onrik/logrus v0.8.0 // indirect
 	github.com/onsi/ginkgo v1.14.2 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
