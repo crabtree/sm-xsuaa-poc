@@ -1,4 +1,4 @@
-# Service Manager-XSUAA communication POC
+# Service Manager POC
 
 ## Overview
 
